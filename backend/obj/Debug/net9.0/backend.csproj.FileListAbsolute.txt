@@ -1,0 +1,15 @@
+C:\Shcherbakov_work\backend\bin\Debug\net9.0\backend.exe
+C:\Shcherbakov_work\backend\bin\Debug\net9.0\backend.deps.json
+C:\Shcherbakov_work\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Shcherbakov_work\backend\bin\Debug\net9.0\backend.dll
+C:\Shcherbakov_work\backend\bin\Debug\net9.0\backend.pdb
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.dll
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.pdb
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Shcherbakov_work\backend\obj\Debug\net9.0\ref\backend.dll
